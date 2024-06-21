@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "453711299647",
+    "firebase_url": "https://finalrides-default-rtdb.firebaseio.com",
+    "project_id": "finalrides",
+    "storage_bucket": "finalrides.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453711299647:android:71cc2df892f7ee3b2be48a",
+        "android_client_info": {
+          "package_name": "com.fbk.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsLWQF07FkjAMaTB9ym1Q5wHR3ZfMaK0"
+        },
+        {
+          "current_key": "AIzaSyAIXF6CGqE2DpjXom5AcxLMKd-Gl6bvHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453711299647:android:ac4362d882979db82be48a",
+        "android_client_info": {
+          "package_name": "com.fbk.rides"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsLWQF07FkjAMaTB9ym1Q5wHR3ZfMaK0"
+        },
+        {
+          "current_key": "AIzaSyAIXF6CGqE2DpjXom5AcxLMKd-Gl6bvHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453711299647:android:0157d416da25f1082be48a",
+        "android_client_info": {
+          "package_name": "com.fbk.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsLWQF07FkjAMaTB9ym1Q5wHR3ZfMaK0"
+        },
+        {
+          "current_key": "AIzaSyAIXF6CGqE2DpjXom5AcxLMKd-Gl6bvHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453711299647:android:341db4bc49f16a352be48a",
+        "android_client_info": {
+          "package_name": "com.fbktech.fbkdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453711299647-t67eu3aoctkvvh3p6vh6gqohj5tffsjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbktech.fbkdriver",
+            "certificate_hash": "637e55c722c8fa9b6eade8a4c0535b70a02f014b"
+          }
+        },
+        {
+          "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsLWQF07FkjAMaTB9ym1Q5wHR3ZfMaK0"
+        },
+        {
+          "current_key": "AIzaSyAIXF6CGqE2DpjXom5AcxLMKd-Gl6bvHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453711299647-mma9garp7eqfrud0npvb13u59lm1kf4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
